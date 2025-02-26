@@ -67,7 +67,8 @@ Supermarkets frequently update prices due to promotions, supply chain changes, a
 
 ## Circuit Diagram
 
-[circuit-diagram](circuit-diagram.jpeg)
+![image](https://github.com/user-attachments/assets/cb8f756c-21d0-4301-9de4-5528e0fe15f5)
+
 
 
 ## Installation & Setup
