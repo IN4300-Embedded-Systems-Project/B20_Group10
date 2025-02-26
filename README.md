@@ -1,3 +1,5 @@
+[the-gifted-ones](the gifted ones.jpeg)
+
 # P10 LED Matrix Display
 
 ## Overview
@@ -63,14 +65,14 @@ Supermarkets frequently update prices due to promotions, supply chain changes, a
 
 ## Circuit Diagram
 
-\
-(*Please upload the circuit diagram image and update the path accordingly*)
+[circuit-diagram](circuit-diagram.jpeg)
+
 
 ## Installation & Setup
 
 ```sh
 # Clone the repository
-git clone https://github.com/your-repo/p10-led-matrix.git
+gh repo clone IN4300-Embedded-Systems-Project/B20_Group10
 
 # Set up the microcontroller environment
 # Configure Wi-Fi and network settings
