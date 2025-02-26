@@ -1,4 +1,6 @@
-[the-gifted-ones](./resources/the-gifted-ones.png)
+![image](https://github.com/user-attachments/assets/d12c6115-3276-4414-83c5-9d29d624c988)
+
+
 
 # P10 LED Matrix Display
 
