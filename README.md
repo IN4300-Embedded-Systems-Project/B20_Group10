@@ -78,13 +78,13 @@ git clone https://github.com/your-repo/p10-led-matrix.git
 ```
 
 ## Contributors
+| Name | Index | GitHub Profile |
+|--------------------------|------------|----------------|
+| **204030C Dasanayaka D.M.D.G.**  | 204030C  | [dinushagihan](https://github.com/dinushagihan) |
+| **204154J Perera A.P.D.**        | 204154J  | [pereraapd](https://github.com/pereraapd) |
+| **204162G Piyumal J.K.P.**       | 204162G  | [pasinda1008](https://github.com/pasinda1008) |
+| **204184B Samararathna B.S.**    | 204184B  | [sachinb7](https://github.com/sachinb7) |
 
-| Name                    | Student ID |
-| ----------------------- | ---------- |
-| **Dasanayaka D.M.D.G.** | 204030C    |
-| **Perera A.P.D.**       | 204154J    |
-| **Piyumal J.K.P.**      | 204162G    |
-| **Samararathna B.S.**   | 204184B    |
 
 ## License
 
