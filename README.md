@@ -1,4 +1,4 @@
-[the-gifted-ones](the-gifted-ones.jpeg)
+[the-gifted-ones](the-gifted-ones.png)
 
 # P10 LED Matrix Display
 
